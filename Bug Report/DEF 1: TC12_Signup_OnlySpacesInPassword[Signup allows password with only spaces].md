@@ -4,6 +4,7 @@
 **Status:** New  
 **Reported By:** Aarya Rajbhandari  
 **Date:** 24 March 2026 
+
 **Assignee:** Unassigned  
 
 **Label:** Bug, Signup, High 

@@ -12,8 +12,8 @@ This module includes manual test cases designed for:
 - Security (SQL Injection, XSS)
 
 Files:
-- Figma-Login-TestCases.xlsx
-- Figma-Signup-TestCases.xlsx
+- Figma-Login.xlsx
+- Figma-Signup.xlsx
 
 # Test Suite: Login
 

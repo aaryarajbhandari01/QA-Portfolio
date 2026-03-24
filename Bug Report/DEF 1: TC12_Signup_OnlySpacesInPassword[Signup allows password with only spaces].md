@@ -30,7 +30,7 @@ High
 
 ## Related Test Case
 
-TC12_Signup_OnlySpacesInPassword // Find this test case in Test-Cases/Figma/Sample Test Case - Figma(Signup_Login).xls 
+- TC12_Signup_OnlySpacesInPassword // Find this test case in Test-Cases/Figma/Sample Test Case - Figma(Signup_Login).xls 
 ---
 
 ## Description

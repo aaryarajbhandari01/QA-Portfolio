@@ -1,4 +1,4 @@
-### Sample Defect Report
+## Sample Defect Report
 
 **Title:** Signup allows a password with only spaces instead of showing a validation error  
 **Status:** New  
@@ -11,7 +11,7 @@
 
 ---
 
-## Environment
+### Environment
 - **Platform:** Web and Mobile
 - **Version:** v.1.4.5  
 - **Environment:** Test  
@@ -20,25 +20,25 @@
 
 ---
 
-## Severity
+### Severity
 High  
 
-## Priority
+### Priority
 High  
 
 ---
 
-## Related Test Case
+### Related Test Case
 
 - TC12_Signup_OnlySpacesInPassword // Find this test case in Test-Cases/Figma/Sample Test Case - Figma(Signup_Login).xls 
 ---
 
-## Description
+### Description
 When a user attempts to sign up using a password that contains only whitespace characters (7 blank spaces), the system does not validate the input correctly and allows the user to sign up successfully.
 
 ---
 
-## Steps to Reproduce
+### Steps to Reproduce
 1. Navigate to "https://www.figma.com"  
 2. Click on "Get started"  
 3. Enter a valid email address  
@@ -47,18 +47,18 @@ When a user attempts to sign up using a password that contains only whitespace c
 
 ---
 
-## Actual Result
-"Password should contain atleast one special character and number" error message was not displayed, and the user is able to sign up using the password with only seven white spaces.
+### Actual Result
+"Password should contain at least one special character and number" error message was not displayed, and the user is able to sign up using the password with only seven white spaces.
 The user also receives a verification email. 
 
 ---
 
-## Expected Result
-"Password should contain atleast one special character and number" error message should be displayed when entering passwords containing only whitespaces, and verification email should not be sent.
+### Expected Result
+"Password should contain at least one special character and number" error message should be displayed when entering passwords containing only whitespaces, and verification email should not be sent.
 
 ---
 
-## Attachments
+### Attachments
 
 DEF 1: TC12_Signup_OnlySpacesInPassword[Signup allows password with only spaces].png 
 

@@ -7,13 +7,13 @@
 
 **Assignee:** Unassigned  
 
-**Label:** Bug, Signup, High 
+**Label:** Bug, Signup, Priority: High 
 
 ---
 
 ## Environment
 - **Platform:** Web and Mobile
-- **Version:** Latest  
+- **Version:** v.1.4.5  
 - **Environment:** Test  
 - **Module:** Signup  
 - **User Role:** New User  

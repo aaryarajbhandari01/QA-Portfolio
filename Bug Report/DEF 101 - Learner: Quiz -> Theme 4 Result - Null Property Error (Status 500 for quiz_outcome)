@@ -1,3 +1,5 @@
+### Sample Defect Report
+
 **Title:** Quiz Result page displays "Attempt to read property 'completed_post_survey' on null" error for Theme 4 quiz (Status code 500).  
 **Status:** Closed  
 **Reported By:** Aarya Rajbhandari  

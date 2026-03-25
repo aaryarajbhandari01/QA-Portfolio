@@ -17,8 +17,8 @@ The goal is to ensure data integrity, efficient querying, and meaningful insight
 
 The database is designed using ERD and normalization (up to 3NF) to eliminate redundancy and maintain consistency.
 
-📊 Core Tables
-# 👤 Customer
+# 📊 Core Tables
+## 👤 Customer
 
 Stores customer information.
 
@@ -27,7 +27,7 @@ Stores customer information.
 - age
 - contact details
 
-# 👨‍💼 Staff
+## 👨‍💼 Staff
 
 Stores staff details.
 
@@ -36,11 +36,11 @@ Stores staff details.
 - position
 - salary
 
-# 🧑‍💼 Manager
+## 🧑‍💼 Manager
 Subclass of Staff (inherits staff_id)
 Represents managerial roles
 
-# 🏟️ Facility
+## 🏟️ Facility
 
 Stores sport facilities.
 
@@ -49,7 +49,7 @@ Stores sport facilities.
 - requirement
 - price
 
-# 📅 Booking
+## 📅 Booking
 
 Links customers to facilities.
 
@@ -60,7 +60,7 @@ Links customers to facilities.
 - booking_time
 - status
 
-# 🛍️ Merchandise
+## 🛍️ Merchandise
 
 Stores items sold by the centre.
 
@@ -68,7 +68,7 @@ Stores items sold by the centre.
 - merchandise_name
 - price
 
-# 📦 Orders
+## 📦 Orders
 
 Stores customer orders.
 
@@ -76,14 +76,14 @@ Stores customer orders.
 - customer_id (FK)
 - staff_id (FK)
 
-# 🔄 OrderMerch
+## 🔄 OrderMerch
 
 Resolves many-to-many relationship between Orders and Merchandise.
 
 - order_id (FK)
 - merchandise_id (FK)
 
-# 🔑 Key Relationships
+## 🔑 Key Relationships
 - One Customer → Many Bookings
 - One Facility → Many Bookings
 - One Customer → Many Orders

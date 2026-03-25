@@ -1,4 +1,4 @@
-### 🏟️ Sport Centre Database System – SQL Portfolio
+### 🏟️ Sport Centre Database System – Sample System Analysis and Database Design Project for SQL Queries
 ## 📌 Project Overview
 
 This project demonstrates the design and implementation of a relational database system for a Sport Centre. The system replaces a traditional file-based approach and enables efficient management of:

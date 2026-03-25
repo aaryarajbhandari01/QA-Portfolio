@@ -2,7 +2,7 @@
 
 ### Basic Data Retrieval, Filtering, Ordering
 
-```sql
+
 -- Query 1 (Part): Facility count
 SELECT COUNT(*) AS total_facilities FROM Facility;
 
@@ -22,6 +22,6 @@ WHERE DATEPART(dw, bookingDate) = 2;
 
 -- Query 9: Staff names and roles
 SELECT fName, lName, role FROM Staff;
-```
+
 
 

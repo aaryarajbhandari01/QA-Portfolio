@@ -1,6 +1,5 @@
 # ✏️ INSERT / UPDATE / DELETE Queries
 
-### Data Modification & Testing
 
 
 ## Insert Customer

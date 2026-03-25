@@ -2,8 +2,8 @@
 
 ## 🔗 Project Resources
 
-- 📊 **Diagram**: [View Context, DFD, ERD, and GRD Diagram]((https://github.com/aaryarajbhandari01/QA-Portfolio/tree/main/SQL%20Queries/docs))
-- 📄 **Project Documentation**: [View Full Documentation]((https://github.com/aaryarajbhandari01/QA-Portfolio/blob/main/SQL%20Queries/docs/Project%20Documentation.md))
+- 📊 **Diagram**: [View Context, DFD, ERD, and GRD Diagram]([https://github.com/aaryarajbhandari01/QA-Portfolio/tree/main/SQL%20Queries/docs])
+- 📄 **Project Documentation**: [View Full Documentation]([https://github.com/aaryarajbhandari01/QA-Portfolio/blob/main/SQL%20Queries/docs/Project%20Documentation.md])
 
 
 ## 📌 Table of Contents
